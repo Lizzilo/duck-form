@@ -1,15 +1,15 @@
 body {
-    background-color: hotpink;
+    background-color: pink;
     
 }
 
 .form {
-	box-sizing: border-box;
+	box-sizing:border-box;
 	max-width: 500px;
 	width: 100%;
 	min-height: 500px;
     padding: 15px 20px;
-    background-color: #044646d9;
+    background-color: grey;
 	border-radius: 5px;
 	box-shadow: 2px 2px 8px #151414;
 	display: flex;
@@ -31,7 +31,7 @@ body {
 }
 
 .main-info {
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .input-field, .textarea, .select {
